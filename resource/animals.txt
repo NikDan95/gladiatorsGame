@@ -1,0 +1,4 @@
+leopard 12
+lion 13
+tiger 15
+crocodile 22
